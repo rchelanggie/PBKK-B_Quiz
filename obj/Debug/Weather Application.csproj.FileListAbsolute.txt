@@ -1,0 +1,13 @@
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\bin\Debug\Weather Application.exe.config
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\bin\Debug\Weather Application.exe
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\bin\Debug\Weather Application.pdb
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\bin\Debug\Newtonsoft.Json.dll
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\bin\Debug\Newtonsoft.Json.xml
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather Application.csproj.AssemblyReference.cache
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather_Application.Form1.resources
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather_Application.Properties.Resources.resources
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather Application.csproj.GenerateResource.cache
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather Application.csproj.CoreCompileInputs.cache
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather Application.csproj.CopyComplete
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather Application.exe
+D:\RACHEL\School\Kuliah ITS\Sem7\PBKK B\Tugas Pert 7 - Quiz\Weather Application\obj\Debug\Weather Application.pdb
